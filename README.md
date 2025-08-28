@@ -7,13 +7,13 @@
 
 - 🌱 Estou aprendendo mais sobre **Arquitetura de Software e DevOps**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [meu portfólio](https://[LINK-DO-SEU-PORTFOLIO-AQUI]) // OU no meu GitHub
+- 👨‍💻 Todos os meus projetos estão disponíveis em [meu portfólio](https://davisontavares.github.io/portfolio/) // OU no meu GitHub
 
 - 💬 Me pergunte sobre **React, Node.js, JavaScript, Python**
 
 - 📫 Como me contactar: **davisontavares0@gmail.com**
 
-- 📄 Conheça minhas experiências: [Meu LinkedIn]([LINK-DO-SEU-LINKEDIN])
+- 📄 Conheça minhas experiências: [Meu LinkedIn](https://www.linkedin.com/in/davison-tavares)
 
 - ⚡ Fun fact: **Sou um grande fã de futebol e cinema!**
 
